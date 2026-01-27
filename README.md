@@ -3,7 +3,8 @@
 <font size="25">**`Desenvolvedor JAVA`**</font>
 <br>
 <br>
-  Me chamo Rhyan, tenho 20 anos e sou natural de Pernambuco. Faço faculdade na UNINTER, com o curso superior em Engenharia de Software. Atualmente, estou cursando Eng de Software focado na área do backend, banco de dados e principalmente em JAVA. Sou apaixonado por tecnologia desde muito novo e fiz da minha paixão meu trabalho. <br><br> Atualmente, foco meus estudos no desenvolvimento Backend, com ênfase em Java e Banco de Dados. Sou movido pelo aprendizado contínuo e pela busca constante de novos desafios técnicos. Estou pronto para uma nova etapa no mercado de trabalho, onde eu tenha a oportunidade de aplicar meus conhecimentos e evoluir em conjunto. <br><br>
+  Me chamo Rhyan, tenho 20 anos e sou natural de Pernambuco. Faço faculdade na UNINTER, com o curso superior em Engenharia de Software. Atualmente, estou cursando Eng de Software focado na área do backend, banco de dados e principalmente em JAVA. Sou apaixonado por tecnologia desde muito novo e fiz da minha paixão meu trabalho. <br><br> Atualmente, foco meus estudos no desenvolvimento Backend, com ênfase em Java e Banco de Dados. Sou movido pelo aprendizado contínuo e pela busca constante de novos desafios técnicos. Estou pronto para uma nova etapa no mercado de trabalho, onde eu tenha a oportunidade de aplicar meus conhecimentos e evoluir em conjunto.
+  Link portfólio: https://portfolio-dpz5.onrender.com <br><br>
     </a> 
     <a href="https://github.com/Rhyanzm?tab=repositories&sort=stargazers">
         <img 
